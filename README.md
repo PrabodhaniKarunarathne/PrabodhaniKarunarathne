@@ -14,15 +14,35 @@
     </td>
  </tr>
 </table>
+
 </br>
 
-<h1 align="center" style="display: inline-block" >Hi, I'm Prabodhani Dilhari Karunarathne...</h1>
-<h3 align="center">Software, Web, Mobile Developer, and Graphic Designer</h3>
+<!--about section-->
+<table border="none">
+  <tr border="none">
+    <td>
+      <div align="center" >
+      <h1 align="center" style="display: inline-block" >Hi, I'm Prabodhani Dilhari Karunarathne...</h1>
+      <h3 align="center" style="display: inline-block">Software Developer | Full-Stack Developer | Graphic Designer</h3>
+     </div>
+    </td>
+    <td>
+    <img src="images/about.jpg" alt="Header Image" style="width:100%;" />
+    </td>
+ </tr>
+</table>
 
 - 📫 **Reach me at:** [karunarathneprabodhani@gmail.com](mailto:karunarathneprabodhani@gmail.com)
 - 📄 **Check out my experiences:** [Resume](https://github.com/PrabodhaniKarunarathne/PrabodhaniKarunarathne/blob/c076df3062bb99ce5a96ee17cd166acf629b9634/K.T.T.P.Dilhari%20Karunarathne.pdf)
 
-### 📊 GitHub Stats:
+  </br>
+
+<!--stats-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GitHub Stats📊</h2></summary>
+  </ul>
+</div>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -43,7 +63,7 @@
 </table>
 
 
-<!--h1 without bottom border-->
+<!--technologies-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
