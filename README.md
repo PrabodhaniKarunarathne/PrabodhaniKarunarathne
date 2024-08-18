@@ -150,7 +150,7 @@
   </ul>
 </div>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/PrabodhaniKarunarathne">
+  <a href="https://buymeacoffee.com/PrabodhaniDilhari">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" style="background: url('https://your-background-image-url.jpg'); background-size: cover;"/>
   </a>
 </p>
