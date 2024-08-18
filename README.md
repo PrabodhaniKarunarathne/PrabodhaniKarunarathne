@@ -66,6 +66,7 @@
 </br>
 
 
+
 <!--technologies-->
 <div id="user-content-toc">
   <ul align="center">
@@ -73,8 +74,10 @@
   </ul>
 </div>
 
-
-<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <p align="center">
   <h2 style="display: inline-block">Programming Languages</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,python,php" />
@@ -115,31 +118,43 @@
     <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
   </a>
 </p>
+</td>
+
+<td>
+  <img src="images/Software_Tools.gif" alt="Header Image" style="width:100%;" />
+</td>
+  </tr>
+</table>
+
+</br>
 
 
+<!--connect with me-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me 🤝🏻</h2></summary>
+  </ul>
+</div>
+<div align="center">
+<a href = 'https://www.linkedin.com/in/prabodhani-karunarathne'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/PrabodhaniKarunarathne'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+</div>
+
+</br>
 
 
-
-
-
-### 🎨 Animations:
-<p align="center">
-  <img src="https://assets9.lottiefiles.com/packages/lf20_ydo1amjm.json" style="width: 400px; height: 400px;" alt="Animation" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/prabodhani-karunarathne" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/PrabodhaniKarunarathne" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Support:</h3>
+<!--support-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Support 💰 </h2></summary>
+  </ul>
+</div>
 <p align="center">
   <a href="https://www.buymeacoffee.com/PrabodhaniKarunarathne">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" style="background: url('https://your-background-image-url.jpg'); background-size: cover;"/>
   </a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
