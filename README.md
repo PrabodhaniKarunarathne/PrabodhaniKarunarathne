@@ -1,12 +1,23 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://your-image-url.jpg" alt="Header Image" style="width:100%;"/>
-</p>
+<!--head section-->
+<table border="none">
+  <tr border="none">
+    <td>
+      <div align="center" >
+      <img src="images/header_img.jpg" alt="Header Image" style="width:100%;" />
+     </div>
+    </td>
+    <td>
+      <h1 style="display: inline-block">Welcome to My GitHub Profile</h1>
+    </td>
+ </tr>
+</table>
+</br>
 
-<h1 align="center">Hi, I'm Prabodhani Dilhari Karunarathne</h1>
-<h3 align="center">Passionate Software, Web, Mobile Developer, and Graphic Designer</h3>
+<h1 align="center" style="display: inline-block" >Hi, I'm Prabodhani Dilhari Karunarathne...</h1>
+<h3 align="center">Software, Web, Mobile Developer, and Graphic Designer</h3>
 
 - 📫 **Reach me at:** [karunarathneprabodhani@gmail.com](mailto:karunarathneprabodhani@gmail.com)
 - 📄 **Check out my experiences:** [Resume](https://github.com/PrabodhaniKarunarathne/PrabodhaniKarunarathne/blob/c076df3062bb99ce5a96ee17cd166acf629b9634/K.T.T.P.Dilhari%20Karunarathne.pdf)
