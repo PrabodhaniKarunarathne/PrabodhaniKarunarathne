@@ -63,6 +63,8 @@
 </tr>
 </table>
 
+</br>
+
 
 <!--technologies-->
 <div id="user-content-toc">
@@ -70,7 +72,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 
 <p align="center">
   <h2 style="display: inline-block">Programming Languages</h2>
@@ -78,6 +80,7 @@
     <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,python,php" />
   </a>
 </p>
+
 <p align="center">
   <h2 style="display: inline-block">Frontend Development</h2>
   <a href="https://skillicons.dev">
@@ -85,16 +88,24 @@
   </a>
 </p>
 
-
-
-
-#### **Backend Development**
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+<p align="center">
+  <h2 style="display: inline-block">Backend Development</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring,dotnet" />
+  </a>
 </p>
+
+<p align="center">
+  <h2 style="display: inline-block">Database Management</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+  </a>
+</p>
+
+
+
+
+
 
 #### **Database Management**
 <p align="left">
