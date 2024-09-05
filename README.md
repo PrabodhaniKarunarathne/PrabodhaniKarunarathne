@@ -4,7 +4,8 @@
 <div align="center" >
       <img src="images/welcome.gif" alt="Header Image" style="width:100%;" />
      </div>
-<!--head section-->
+     
+<!--head section
 <table border="none">
   <tr border="none">
     <td>
@@ -17,6 +18,7 @@
     </td>
  </tr>
 </table>
+-->
 
 </br>
 
