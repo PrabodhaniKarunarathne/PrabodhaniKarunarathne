@@ -1,8 +1,9 @@
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <div align="center" >
-      <img src="images/welcome.gif" alt="Header Image" style="width:100%;" />
+      <img src="images/welcome2.gif" alt="Header Image" style="width:100%;" />
      </div>
      
 <!--head section
