@@ -86,35 +86,42 @@
   <p align="center">
   <h2 style="display: inline-block">Programming Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,python,php" />
+    <img src="https://skillicons.dev/icons?i=java,js,cs,kotlin,py,c,php"/>
+  </a>
+</p>
+
+<p align="center">
+  <h2 style="display: inline-block">Frameworks</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs"/>
   </a>
 </p>
 
 <p align="center">
   <h2 style="display: inline-block">Frontend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,bootstrap" />
   </a>
 </p>
 
 <p align="center">
-  <h2 style="display: inline-block">Backend Development</h2>
+  <h2 style="display: inline-block">Version Control</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring,dotnet" />
+   <img src="https://skillicons.dev/icons?i=git,github"/>
   </a>
 </p>
 
 <p align="center">
   <h2 style="display: inline-block">Database Management</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
   </a>
 </p>
 
 <p align="center">
   <h2 style="display: inline-block">DevOps & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,androidstudio,visualstudio,nodejs,gradle" />
   </a>
 </p>
 
