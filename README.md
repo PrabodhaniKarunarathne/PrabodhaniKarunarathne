@@ -4,7 +4,7 @@
 
 <div align="center" >
       <img src="images/welcome.gif" alt="Header Image" style="width:100%;" />
-     </div>
+</div>
      
 <!--head section
 <table border="none">
@@ -20,6 +20,7 @@
  </tr>
 </table>
 -->
+
 
 </br>
 
@@ -42,6 +43,7 @@
 - 📫 **Reach me at:** [karunarathneprabodhani@gmail.com](mailto:karunarathneprabodhani@gmail.com)
 - 📄 **Check out my experiences:** [Resume](https://github.com/PrabodhaniKarunarathne/PrabodhaniKarunarathne/blob/c076df3062bb99ce5a96ee17cd166acf629b9634/K.T.T.P.Dilhari%20Karunarathne.pdf)
 
+
   </br>
 
 
@@ -53,24 +55,22 @@
 </div>
 <p align="center">
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PrabodhaniKarunarathne&theme=chartreuse-dark&show_icons=true&count_private=true&icon_color=00ff00" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrabodhaniKarunarathne&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrabodhaniKarunarathne&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrabodhaniKarunarathne&theme=chartreuse-dark&show_icons=true&count_private=true&icon_color=00aaff&text_color=FFFFFF&title_color=7FFFD4" />
+      </br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrabodhaniKarunarathne&theme=dark&hide_border=false&stroke=00ccff&ring=7FFFD4&fire=00aaff&currStreakLabel=00ccff&currStreakNum=00FFFF&sideLabels=LightSkyBlue&totalContributions=00FFFF&background=000000" />
+      </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrabodhaniKarunarathne&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&text_color=FFFFFF&title_color=7FFFD4" />
+    </td>
+  </tr>
 </table>
 
-</br>
 
+
+
+</br>
 
 
 <!--technologies-->
@@ -146,6 +146,7 @@
 <a href = 'https://www.github.com/PrabodhaniKarunarathne'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </div>
 
+
 </br>
 
 
@@ -160,6 +161,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" style="background: url('https://your-background-image-url.jpg'); background-size: cover;"/>
   </a>
 </p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
