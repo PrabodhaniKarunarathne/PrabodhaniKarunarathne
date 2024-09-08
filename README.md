@@ -3,7 +3,7 @@
 -->
 
 <div align="center" >
-      <img src="images/profile2.png" alt="Header Image" style="width:100%;" />
+      <img src="images/welcome.gif" alt="Header Image" style="width:100%;" />
 </div>
      
 <!--head section
