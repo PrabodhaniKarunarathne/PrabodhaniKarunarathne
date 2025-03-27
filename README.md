@@ -86,14 +86,14 @@
   <p align="center">
   <h2 style="display: inline-block">Programming Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,cs,kotlin,py,c,php"/>
+    <img src="https://skillicons.dev/icons?i=java,js,cs,kotlin,py,c,php,ts"/>
   </a>
 </p>
 
 <p align="center">
   <h2 style="display: inline-block">Frameworks</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs,vite"/>
   </a>
 </p>
 
