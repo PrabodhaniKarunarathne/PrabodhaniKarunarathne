@@ -93,14 +93,14 @@
 <p align="center">
   <h2 style="display: inline-block">Frameworks</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs,vite"/>
+    <img src="https://skillicons.dev/icons?i=react,spring,dotnet,nextjs"/>
   </a>
 </p>
 
 <p align="center">
   <h2 style="display: inline-block">Frontend Development</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind,bootstrap,vite" />
   </a>
 </p>
 
